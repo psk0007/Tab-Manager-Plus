@@ -40,7 +40,7 @@
 			"256": "images/browsers256.png"
 		},
 		"default_title" : "Tab Manager Plus",
-		"default_panel": "popup.html?panel=true"
+		"default_panel": "sidebar.html?panel=true"
 	},
 	"options_ui": {
 		"page": "options.html"
